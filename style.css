@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width:50%;
@@ -20,4 +21,22 @@ section{
 p{
     border :20px;
     text-align: justify;
+}
+.text-button{
+    text-decoration: none;
+    background-color: rgb(237, 78, 57);
+    padding :10px 40px;
+    font-size: 15px;
+    border-radius: 5px;
+    color : white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.middle-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
