@@ -4,6 +4,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .ani{
     color:orange;}
 .flexible-container
@@ -40,6 +43,28 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+.bottom-banner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position :left;
+}
 .web{
     color :orange;
+}
+.experience-item{
+    box-shadow: 10px 10px 10px gray;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding :40px;
+    width:50%;
+   
+}
+#one{
+    border-left: 7px solid orangered;
+}
+#two{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align :center;
 }
