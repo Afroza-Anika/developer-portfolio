@@ -5,9 +5,9 @@ h1{
     font-size: 50px;
 }
 .ani{
-    color:orange;
-}
-section{
+    color:orange;}
+.flexible-container
+{
     display: flex;
     margin-bottom: 100px;
 }
@@ -39,4 +39,7 @@ p{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.web{
+    color :orange;
 }
