@@ -7,3 +7,17 @@ h1{
 .ani{
     color:orange;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width:50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width :80%;
+}
+p{
+    border :20px;
+    text-align: justify;
+}
